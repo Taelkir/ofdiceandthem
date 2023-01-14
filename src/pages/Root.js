@@ -8,13 +8,16 @@ function Root() {
 			<header>
 				<img className="logo" src={logo} alt="Of Dice and Them logo" />
 				<h1 className="main-title">Of Dice and Them</h1>
-				<h2>coming 6th February 2023</h2>
+				<h2>Coming 6th February 2023</h2>
 			</header>
 			<main>
 				<p>
-					A TTRPG Actual Play Podcast that blends the bizzare and the beautiful.
-					Join Bambi, Lou, Ralph, and Tove as our heroes, under the guidance of
-					Dungeon Master Jack, as they explore the world of Eren.
+					Welcome to <strong>Of Dice and Them</strong>! Join Jack, Ralph, Lou,
+					Tove and Bambi, in their new TTRPG actual play podcast, as they laugh
+					in each other's faces and try to get through a session where no one
+					beefs it. Contains frustrated swearing, light-hearted DM bullying, and
+					far too much owl-based combat. Download wherever you get your
+					podcasts!
 				</p>
 				<nav>
 					<a href="https://feed.ofdiceandthem.com">Episodes</a>

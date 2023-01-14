@@ -6,8 +6,8 @@ function Root() {
 	return (
 		<>
 			<header>
-				<img class="logo" src={logo} alt="Of Dice and Them logo" />
-				<h1 class="main-title">Of Dice and Them</h1>
+				<img className="logo" src={logo} alt="Of Dice and Them logo" />
+				<h1 className="main-title">Of Dice and Them</h1>
 				<h2>coming 6th February 2023</h2>
 			</header>
 			<main>

@@ -4,7 +4,6 @@ body {
   max-width: initial;
   overflow-x: initial;
   word-break: initial;
-  /* background-color: orange !important; */
   width: 100%;
 }
 
@@ -24,7 +23,6 @@ main {
   color: var(--nc-tx-2);
   font-size: 1.03rem;
   line-height: 1.5;
-  /* background-color: cornflowerblue !important; */
 }
 
 header {
@@ -32,15 +30,16 @@ header {
   display: flex;
   flex-direction: column;
   width: 100%;
-  /* background-color: tomato; */
   justify-content: center;
   align-items: center;
 }
 
 img.logo {
-  height: 500px;
-  width: 500px;
+  max-height: 500px;
+  max-width: 500px;
   margin: auto;
+  width: 200px;
+  height: 200px;
 }
 
 .main-title {
@@ -51,6 +50,22 @@ nav {
   display: flex;
   justify-content: space-between;
   margin-top: 2rem;
+  flex-direction: column;
+}
+
+nav a {
+  margin-top: 1rem;
+}
+
+@media screen and (min-width: 520px) {
+  nav {
+    flex-direction: row;
+  }
+
+  img.logo {
+    width: auto;
+    height: auto;
+  }
 }
 
 /* new.css */

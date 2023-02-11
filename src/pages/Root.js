@@ -8,7 +8,11 @@ function Root() {
 			<header>
 				<img className="logo" src={logo} alt="Of Dice and Them logo" />
 				<h1 className="main-title">Of Dice and Them</h1>
-				<h2>Coming 6th February 2023</h2>
+				<h2>
+					<a href="https://feed.ofdiceandthem.com/s01e01-we-are-the-grebthian-preservation-society">
+						Start with episode one!
+					</a>
+				</h2>
 			</header>
 			<main>
 				<p>
@@ -20,7 +24,7 @@ function Root() {
 					podcasts!
 				</p>
 				<nav>
-					<a href="https://feed.ofdiceandthem.com">Episodes</a>
+					<a href="https://feed.ofdiceandthem.com">All episodes</a>
 					<a href="https://twitter.com/ofdiceandthem">Follow us on Twitter</a>
 					<a href="https://instagram.com/ofdiceandthem">
 						Follow us on Instagram

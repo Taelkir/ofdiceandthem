@@ -91,6 +91,18 @@ function Credits() {
 					</li>
 				</ul>
 			</section>
+			<section>
+				<h3>SFX</h3>
+				<ul>
+					<li>
+						<a href="https://freesound.org/people/InspectorJ/sounds/352098/">
+							Splash, Jumping, D.wav" by InspectorJ
+						</a>{" "}
+						(<a href="https://www.jshaw.co.uk">www.jshaw.co.uk</a>) of{" "}
+						<a href="https://freesound.org">Freesound.org</a>
+					</li>
+				</ul>
+			</section>
 		</main>
 	);
 }

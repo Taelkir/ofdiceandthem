@@ -25,7 +25,7 @@ function Credits() {
 					<a href="https://twitter.com/ralph_stickley">Ralph</a>
 				</li>
 				<li>
-					Light-on-the-Lake-at-Midnight:{" "}
+					Light on the Lake at Midnight:{" "}
 					<a href="https://twitter.com/toveberry">Tove</a>
 				</li>
 			</ul>
@@ -89,12 +89,19 @@ function Credits() {
 						Creative Commons: By Attribution 4.0 License
 						http://creativecommons.org/licenses/by/4.0/
 					</li>
+					{/* <li>
+						<!-- Episode 6 -->
+						"Firebrand" Kevin MacLeod (incompetech.com) Licensed under Creative
+						Commons: By Attribution 4.0 License
+						http://creativecommons.org/licenses/by/4.0/
+					</li> */}
 				</ul>
 			</section>
-			<section>
+			{/* <section>
 				<h3>SFX</h3>
 				<ul>
 					<li>
+					<!-- Episode 5 -->
 						<a href="https://freesound.org/people/InspectorJ/sounds/352098/">
 							Splash, Jumping, D.wav" by InspectorJ
 						</a>{" "}
@@ -102,7 +109,7 @@ function Credits() {
 						<a href="https://freesound.org">Freesound.org</a>
 					</li>
 				</ul>
-			</section>
+			</section> */}
 		</main>
 	);
 }

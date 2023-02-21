@@ -63,9 +63,14 @@ function Credits() {
 				<h3>Music</h3>
 				<ul>
 					<li>
-						"Midnight Tale" Kevin MacLeod (incompetech.com) Licensed under
-						Creative Commons: By Attribution 4.0 License
+						Our intro music is "Midnight Tale" Kevin MacLeod (incompetech.com)
+						Licensed under Creative Commons: By Attribution 4.0 License
 						http://creativecommons.org/licenses/by/4.0/
+					</li>
+					<li>
+						"Loucap" music is Crossroads by Alexander Nakarada
+						(www.serpentsoundstudios.com) Licensed under Creative Commons BY
+						Attribution 4.0 License https://creativecommons.org/licenses/by/4.0/
 					</li>
 					<li>
 						"Fluffing a Duck" Kevin MacLeod (incompetech.com) Licensed under
@@ -78,11 +83,6 @@ function Credits() {
 						https://www.free-stock-music.com Creative Commons Attribution 3.0
 						Unported License
 						https://creativecommons.org/licenses/by/3.0/deed.en_US
-					</li>
-					<li>
-						Music: Crossroads by Alexander Nakarada
-						(www.serpentsoundstudios.com) Licensed under Creative Commons BY
-						Attribution 4.0 License https://creativecommons.org/licenses/by/4.0/
 					</li>
 					<li>
 						"Unseen Horrors" Kevin MacLeod (incompetech.com) Licensed under

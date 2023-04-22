@@ -73,9 +73,9 @@ function Credits() {
 						Attribution 4.0 License https://creativecommons.org/licenses/by/4.0/
 					</li>
 					<li>
-						"Fluffing a Duck" Kevin MacLeod (incompetech.com) Licensed under
-						Creative Commons: By Attribution 4.0 License
-						http://creativecommons.org/licenses/by/4.0/
+						Our "rules lawyer" theme is "Fluffing a Duck" Kevin MacLeod
+						(incompetech.com) Licensed under Creative Commons: By Attribution
+						4.0 License http://creativecommons.org/licenses/by/4.0/
 					</li>
 					<li>
 						Grunge Rock Instrumental by Wayne John Bradley |
@@ -97,11 +97,10 @@ function Credits() {
 					</li> */}
 				</ul>
 			</section>
-			{/* <section>
+			<section>
 				<h3>SFX</h3>
 				<ul>
 					<li>
-					<!-- Episode 5 -->
 						<a href="https://freesound.org/people/InspectorJ/sounds/352098/">
 							Splash, Jumping, D.wav" by InspectorJ
 						</a>{" "}
@@ -109,7 +108,7 @@ function Credits() {
 						<a href="https://freesound.org">Freesound.org</a>
 					</li>
 				</ul>
-			</section> */}
+			</section>
 		</main>
 	);
 }

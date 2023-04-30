@@ -89,12 +89,11 @@ function Credits() {
 						Creative Commons: By Attribution 4.0 License
 						http://creativecommons.org/licenses/by/4.0/
 					</li>
-					{/* <li>
-						<!-- Episode 6 -->
+					<li>
 						"Firebrand" Kevin MacLeod (incompetech.com) Licensed under Creative
 						Commons: By Attribution 4.0 License
 						http://creativecommons.org/licenses/by/4.0/
-					</li> */}
+					</li>
 				</ul>
 			</section>
 			<section>

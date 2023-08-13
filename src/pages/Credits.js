@@ -94,6 +94,11 @@ function Credits() {
 						Commons: By Attribution 4.0 License
 						http://creativecommons.org/licenses/by/4.0/
 					</li>
+					<li>
+						"Mesmerize" Kevin MacLeod (incompetech.com) Licensed under Creative
+						Commons: By Attribution 4.0 License
+						http://creativecommons.org/licenses/by/4.0/
+					</li>
 				</ul>
 			</section>
 			<section>

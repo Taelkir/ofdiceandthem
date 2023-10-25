@@ -31,6 +31,59 @@ function Root() {
 					</a>
 					<Link to="/credits">Credits</Link>
 				</nav>
+				<section class="badges-and-awards" style={{ "margin-top": "24px" }}>
+					<div
+						style={{
+							display: "flex",
+							"flex-direction": "column",
+							"align-items": "center",
+						}}
+					>
+						<a
+							href="https://goodpods.com/leaderboard/top-100-shows-by-category/leisure/games?indie=false&period=alltime#24937757"
+							target="_blank"
+							rel="noreferrer"
+						>
+							<img
+								src="https://storage.googleapis.com/goodpods-images-bucket/leaderboard_badges/leisure_games_top100.png"
+								alt="goodpods top 100 games podcasts"
+								style={{ width: "250px", height: "77px" }}
+							/>
+						</a>
+						<a
+							href="https://goodpods.com/leaderboard/top-100-shows-by-category/leisure/games"
+							style={{
+								"text-decoration": "none",
+								color: "#6F6F6F",
+								"font-size": "13px",
+								"font-family": "Arial, Helvetica sans-serif",
+								"text-align": "center",
+								"line-height": "16px",
+								"margin-top": "4px",
+							}}
+							target="_blank"
+							rel="noreferrer"
+						>
+							Goodpods Top 100 Games Podcasts
+						</a>
+						<a
+							href="https://goodpods.com/podcasts/of-dice-and-them-250042"
+							style={{
+								"text-decoration": "none",
+								color: "#6F6F6F",
+								"font-size": "13px",
+								"font-family": "Arial, Helvetica, sans-serif",
+								"text-align": "center",
+								"line-height": "16px",
+								"margin-top": "4px",
+							}}
+							target="_blank"
+							rel="noreferrer"
+						>
+							Listen now to Of Dice and Them podcast
+						</a>
+					</div>
+				</section>
 			</main>
 		</>
 	);

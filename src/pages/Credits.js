@@ -12,20 +12,23 @@ function Credits() {
 			<h2>Cast (in alphabetical order)</h2>
 			<ul>
 				<li>
-					Lyosha Podkholmov: <a href="https://twitter.com/oddballham">Bambi</a>
+					Lyosha Podkholmov / Randall Rynard:{" "}
+					<a href="https://twitter.com/oddballham">Bambi</a>
 				</li>
 				<li>
-					Dungeon Master: <a href="https://twitter.com/dmofdiceandthem">Jack</a>
+					D&D 5e Dungeon Master / Tay Loreswift:{" "}
+					<a href="https://twitter.com/dmofdiceandthem">Jack</a>
 				</li>
 				<li>
-					Augustina Miller: <a href="https://twitter.com/iamloufryer">Lou</a>
+					Augustina Miller / Gecko:{" "}
+					<a href="https://twitter.com/iamloufryer">Lou</a>
 				</li>
 				<li>
-					Ser Gladstone Pyke:{" "}
+					Ser Gladstone Pyke / Kuuza:{" "}
 					<a href="https://twitter.com/ralph_stickley">Ralph</a>
 				</li>
 				<li>
-					Light on the Lake at Midnight:{" "}
+					Light on the Lake at Midnight / BitD Game Master:{" "}
 					<a href="https://twitter.com/toveberry">Tove</a>
 				</li>
 			</ul>

@@ -9,7 +9,7 @@ function Root() {
 				<img className="logo" src={logo} alt="Of Dice and Them logo" />
 				<h1 className="main-title">Of Dice and Them</h1>
 				<h2>
-					<a href="https://feed.ofdiceandthem.com/s01e01-we-are-the-grebthian-preservation-society">
+					<a href="https://podcasters.spotify.com/pod/show/of-dice-and-them/episodes/S01E01-We-Are-The-Grebthian-Preservation-Society-e2jgk3k">
 						Start with episode one!
 					</a>
 				</h2>
@@ -29,6 +29,7 @@ function Root() {
 					<a href="https://instagram.com/ofdiceandthem">
 						Follow us on Instagram
 					</a>
+					<a href="mailto:ofdiceandthem@gmail.com">Email us</a>
 					<Link to="/credits">Credits</Link>
 				</nav>
 				<section class="badges-and-awards" style={{ "margin-top": "24px" }}>

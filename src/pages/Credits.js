@@ -13,23 +13,23 @@ function Credits() {
 			<ul>
 				<li>
 					Lyosha Podkholmov / Randall Rynard:{" "}
-					<a href="https://twitter.com/oddballham">Bambi</a>
+					<a href="https://bsky.app/profile/oddballham.bsky.social">Bambi</a>
 				</li>
 				<li>
 					D&D 5e Dungeon Master / Tay Loreswift:{" "}
-					<a href="https://twitter.com/dmofdiceandthem">Jack</a>
+					<a href="https://bsky.app/profile/jackofdiceandthem.bsky.social">Jack</a>
 				</li>
 				<li>
 					Augustina Miller / Gecko:{" "}
-					<a href="https://twitter.com/iamloufryer">Lou</a>
+					<a href="https://bsky.app/profile/iamloufryer.bsky.social">Lou</a>
 				</li>
 				<li>
 					Ser Gladstone Pyke / Kuuza:{" "}
-					<a href="https://twitter.com/ralph_stickley">Ralph</a>
+					<a href="https://bsky.app/profile/ralphstickley.bsky.social">Ralph</a>
 				</li>
 				<li>
 					Light on the Lake at Midnight / BitD Game Master:{" "}
-					<a href="https://twitter.com/toveberry">Tove</a>
+					<a href="https://bsky.app/profile/nice.horse">Tove</a>
 				</li>
 			</ul>
 

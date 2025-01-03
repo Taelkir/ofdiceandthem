@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import logo from "../ofdiceandthem-500px.png";
+import * as Icons from "../components/icons";
 import "./Index.css";
 
 function Root() {
@@ -7,30 +8,71 @@ function Root() {
 		<>
 			<header>
 				<img className="logo" src={logo} alt="Of Dice and Them logo" />
-				<h1 className="main-title">Of Dice and Them</h1>
-				<h2>
-					<a href="https://podcasters.spotify.com/pod/show/of-dice-and-them/episodes/S01E01-We-Are-The-Grebthian-Preservation-Society-e2jgk3k">
-						Start with episode one!
+				<div className="hero-container">
+					<h1 className="visually-hidden">Of Dice and Them</h1>
+					<a 
+						href="https://creators.spotify.com/pod/show/of-dice-and-them/episodes/S01E01-We-Are-The-Grebthian-Preservation-Society-e2jgk3k"
+						className="hero-link"
+					>
+						<div className="hero-image season-one">
+							<div className="hero-overlay">
+								<h2>Season One</h2>
+								<p>D&D 5e</p>
+							</div>
+						</div>
 					</a>
-				</h2>
+					<a 
+						href="https://creators.spotify.com/pod/show/of-dice-and-them/episodes/Blades-in-the-Dark---Episode-1-Session-Zero-e2jgk3c"
+						className="hero-link"
+					>
+						<div className="hero-image season-two">
+							<div className="hero-overlay">
+								<h2>Season Two</h2>
+								<p>Blades in the Dark</p>
+							</div>
+						</div>
+					</a>
+				</div>
 			</header>
 			<main>
-				<p>
-					Welcome to <strong>Of Dice and Them</strong>! Join Jack, Ralph, Lou,
-					Tove and Bambi, in their new TTRPG actual play podcast, as they laugh
-					in each other's faces and try to get through a session where no one
-					beefs it. Contains frustrated swearing, light-hearted DM bullying, and
-					far too much owl-based combat. Download wherever you get your
-					podcasts!
-				</p>
-				<nav>
-					<a href="https://feed.ofdiceandthem.com">All episodes</a>
-					<a href="https://twitter.com/ofdiceandthem">Follow us on Twitter</a>
-					<a href="https://instagram.com/ofdiceandthem">
-						Follow us on Instagram
+				<div className="intro-section">
+					<p className="intro-text">
+						Welcome to <strong>Of Dice and Them</strong>! Join Jack, Ralph, Lou,
+						Tove and Bambi, in their new TTRPG actual play podcast, as they laugh
+						in each other's faces and try to get through a session where no one
+						beefs it. Contains frustrated swearing, light-hearted DM bullying, and
+						far too much owl-based combat.
+					</p> 
+					
+					<p className="intro-text">
+						Download wherever you get your podcasts!
+					</p>
+				</div>
+				<nav className="social-nav">
+					<a href="https://feed.ofdiceandthem.com" className="nav-link">
+						<Icons.Rss />
+						<span>All episodes</span>
 					</a>
-					<a href="mailto:ofdiceandthem@gmail.com">Email us</a>
-					<Link to="/credits">Credits</Link>
+					<a href="https://bsky.app/profile/ofdiceandthem.com" className="nav-link">
+						<Icons.Bluesky />
+						<span>Follow us on Bluesky</span>
+					</a>
+					<a href="https://www.youtube.com/@OfDiceAndThemPod/videos" className="nav-link">
+						<Icons.Youtube />
+						<span>Subscribe on YouTube</span>
+					</a>
+					<a href="https://instagram.com/ofdiceandthem" className="nav-link">
+						<Icons.Instagram />
+						<span>Follow us on Instagram</span>
+					</a>
+					<a href="mailto:ofdiceandthem@gmail.com" className="nav-link">
+						<Icons.Email />
+						<span>Email us</span>
+					</a>
+					<Link to="/credits" className="nav-link">
+						<Icons.Credits />
+						<span>Credits</span>
+					</Link>
 				</nav>
 				<section class="badges-and-awards" style={{ "margin-top": "24px" }}>
 					<div
